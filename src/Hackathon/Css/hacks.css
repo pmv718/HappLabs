@@ -1,0 +1,8 @@
+.hackathonOptionsDiv {
+margin: 10px;
+cursor: pointer
+
+}
+.hackathonMainDiv, .addHacksDiv {
+padding: 25px;
+}
